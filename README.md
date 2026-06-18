@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack & Tools
-- **Languages:** Python (Core to Advanced), JavaScript
+- **Languages:** Python (Core to Advanced)
 - **Frameworks & Libraries:** Streamlit, Web Scraping Tools
 - **Design & 3D UI:** Figma, Blender, Unity
 
