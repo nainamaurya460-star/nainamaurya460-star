@@ -33,7 +33,7 @@
 
 ### 🚀 About Me
 * 🎓 **B.Tech CSE Student** tracking a rigorous, industry-aligned roadmap toward becoming a production-grade AI Engineer.
-* 💻 **Premium UI/UX & 3D Designer** for **Devdoots Simulation**, specializing in high-end elite aesthetics and 3D spatial mapping workflows.
+* 💻 **Premium UI/UX & 3D Designer** for **Devdoots Simulation**
 * 🎯 **The Grind:** Currently on a live consistency streak on GitHub and sharpening algorithmic logic on CodeChef.
 
 ---
@@ -45,14 +45,6 @@
 | **Core Programming** | Beginner-Intermediate | Python core syntax, advanced logic data structures, and clean-code patterns. |
 | **3D Modeling & UI** | Intermediate | Character sculpting, assets design in Blender, and technical Unity UI integration. |
 | **AI Systems** | Exploring | Streamlit applications, Jupyter notebooks, and researching automated workflow agents. |
-
----
-
-### 🏆 GitHub Achievements & Unlocked Badges
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=nainamaurya460-star&theme=dracula&compact=true" alt="Naina's GitHub Achievements" />
-</p>
 
 ---
 
