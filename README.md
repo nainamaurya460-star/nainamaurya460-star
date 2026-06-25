@@ -6,6 +6,14 @@
 
 ---
 
+### 🟢 GitHub Contribution Calendar (Daily Attendance Grid)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nainamaurya460-star&theme=react-dark" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Digital Arsenal
 
 | Category | Badges |
@@ -19,18 +27,7 @@
 ### 🚀 About Me
 * 🎓 **B.Tech CSE Student** tracking a rigorous industry-aligned roadmap toward becoming a production-grade AI Engineer.
 * 💻 **UI/UX & 3D Designer** for **Devdoots Simulation**, specializing in Premium aesthetics, glassmorphism interfaces, and 3D spatial mapping workflows.
-* 🎯 **The Grind:** Currently on a live consistency streak on GitHub and sharpening algorithmic logic on CodeChef , Kaggle , Hackerrank.
-
----
-
-### 🧠 AI / ML & Design Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Core Programming** | Beginner-Intermediate | Python syntax, data structures, and optimized clean-code patterns. |
-| **User Interfaces** | Advanced | Immersive Cyberpunk design systems, interactive Figma wireframes, and Unity UI development. |
-| **3D Modeling** | Intermediate | Character sculpting, asset design in Blender, and technical spatial integrations. |
-| **AI Agents** | Exploring | Automating workflows and building intelligent agents for complex academic solving. |
+* 🎯 **The Grind:** Currently on a live consistency streak on GitHub and sharpening algorithmic logic on CodeChef,Kaggle,Hackerrank.
 
 ---
 
@@ -42,11 +39,7 @@
 
 ---
 
-### 📊 Contribution Activity & Ecosystem Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nainamaurya460-star&theme=react-dark" alt="Activity Graph" />
-</p>
+### 📊 Ecosystem Stats & Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=cyberpunk&count_private=true" alt="Naina's GitHub Stats" />
