@@ -42,15 +42,12 @@
 | **Web Infrastructure**| Intermediate | Building dynamic frontend layouts with HTML5 and web scraping utilities. |
 | **AI Systems** | Exploring | Streamlit applications, Jupyter notebooks, and researching automated workflow agents. |
 
----
-
 ### 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nainamaurya460-star&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=nainamaurya460-star&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 ---
 
----
 
 ### 🟢 Contribution Activity (Daily Attendance Waves & Snake Game)
 
