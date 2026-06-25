@@ -52,7 +52,11 @@
 
 ---
 
-### 🟢 Contribution Activity (Daily Attendance Waves & Grid)
+### 🟢 Contribution Activity (Daily Attendance Waves & Snake Game)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nainamaurya460-star/nainamaurya460-star/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak Snake" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nainamaurya460-star&theme=react-dark" alt="Activity Graph" width="100%" />
