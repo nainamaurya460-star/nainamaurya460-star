@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nainamaurya460-star&theme=react-dark" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nainamaurya460-star&theme=tokyonight" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -54,6 +54,16 @@
 ### 📊 Ecosystem Stats & Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=remsky&hide_border=true&count_private=true&height=195" alt="Naina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainamaurya460-star&layout=donut&theme=remsky&hide_border=true&langs_count=4&height=195" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nainamaurya460-star&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nainamaurya460-star&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nainamaurya460-star&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+<p align="center">
+  🪐 <i>"Building in public, refining logic in real-time."</i>
 </p>
