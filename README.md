@@ -54,12 +54,6 @@
 ### 📊 Ecosystem Stats & Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="Naina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainamaurya460-star&layout=donut&theme=react&hide_border=true&langs_count=4" width="45%" alt="Most Used Languages" />
-</p>
-
----
-
-<p align="center">
-  🪐 <i>"Building in public, refining logic in real-time."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=remsky&hide_border=true&count_private=true&height=195" alt="Naina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainamaurya460-star&layout=donut&theme=remsky&hide_border=true&langs_count=4&height=195" alt="Most Used Languages" />
 </p>
