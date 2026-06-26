@@ -31,20 +31,11 @@
 
 ---
 
-### 🚀 About Me
-* 🎓 **B.Tech CSE Student** tracking a rigorous, industry-aligned roadmap toward becoming a production-grade AI Engineer.
-* 💻 **Premium UI/UX & 3D Designer** for **Devdoots Simulation**
-* 🎯 **The Grind:** Currently on a live consistency streak on GitHub and sharpening algorithmic logic on CodeChef.
+### 🚀 Quick Scan
 
----
-
-### 🧠 Core Expertise Matrix
-
-| Domain | Proficiency | Details / Tools |
-| :--- | :--- | :--- |
-| **Core Programming** | Beginner-Intermediate | Python core syntax, advanced logic data structures, and clean-code patterns. |
-| **3D Modeling & UI** | Intermediate | Character sculpting, assets design in Blender, and technical Unity UI integration. |
-| **AI Systems** | Exploring | Streamlit applications, Jupyter notebooks, and researching automated workflow agents. |
+- 🎓 **B.Tech CSE:** Tracking an industry-aligned roadmap toward production-grade AI Engineering.
+- 💻 **UI/UX & 3D Design:** Sculpting assets and crafting interfaces for **Devdoots Simulation**.
+- ⚡ **The Grind:** Maintaining active consistency streaks on GitHub and optimizing logic on CodeChef.
 
 ---
 
@@ -63,11 +54,8 @@
 ### 📊 Ecosystem Stats & Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=dracula&count_private=true" alt="Naina's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainamaurya460-star&layout=compact&theme=dracula" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nainamaurya460-star&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="Naina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nainamaurya460-star&layout=donut&theme=react&hide_border=true&langs_count=4" width="45%" alt="Most Used Languages" />
 </p>
 
 ---
