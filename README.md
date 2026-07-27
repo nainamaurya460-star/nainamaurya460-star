@@ -1,7 +1,7 @@
 # 🪐 Striving for the top 0.1% in the evolving world of machine intelligence.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+In+Making;Premium+UI+%2F+UX+Designer+%40Devdoots;3D+Artist+%26+Sculptor;Python+Hustler" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+In+Making;Premium+UI+%2F;3D+Artist+%26+Sculptor;Python+Hustler" alt="Typing SVG" />
 </p>
 
 ---
